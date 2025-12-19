@@ -311,7 +311,7 @@ Each script:
 
 * **Journal:** *International Journal of Advanced Research in Science, Communication and Technology (IJARSCT)*
 * **DOI:** 10.48175/IJARSCT-16909
-* **Software Copyright (India):** SW-18815/2024
+* **Software Copyright (Government of India):** SW-18815/2024
 
 <p align="center">
 <img width="500" height="800" alt="Image" src="https://github.com/user-attachments/assets/6c8b2f48-0ab6-4e80-9b6a-45ea9be3e51b" />
